@@ -14,4 +14,4 @@ def helper(data,k):
 def num_ways(data):
     return helper(data, len(data))
 
-print(num_ways('210'))
+print(num_ways('1210'))
